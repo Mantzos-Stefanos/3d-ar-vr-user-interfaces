@@ -11,7 +11,8 @@
 
 ## 📁 Περιεχόμενα
 
-- [3d-ar-vr-user-interfaces.pdf](https://github.com/Mantzos-Stefanos/3d-ar-vr-user-interfaces/blob/main/3d-ar-vr-user-interfaces.pdf): Η πλήρης εργασία σε PDF
+- [d-ar-vr-user-interfaces.pdf](https://github.com/Mantzos-Stefanos/3d-ar-vr-user-interfaces/blob/main/d-ar-vr-user-interfaces.pdf): Η πλήρης εργασία σε PDF
+
 
 ## 🧰 Τεχνολογίες / Θέματα
 
